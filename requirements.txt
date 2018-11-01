@@ -1,0 +1,6 @@
+matplotlib==2.1.0
+fix_yahoo_finance==0.0.22
+pandas_datareader==0.7.0
+python_telegram_bot==11.1.0
+pandas==0.20.3
+telegram==0.0.1
